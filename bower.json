@@ -25,7 +25,7 @@
 	],
 	"dependencies": {
 		"angular":"~1.2.0",
-		"sweetalert":"~0.2.0"
+		"sweetalert":"git://github.com/jagged3dge/sweetalert.git#master"
 	},
 	"devDependencies": {
 	}
